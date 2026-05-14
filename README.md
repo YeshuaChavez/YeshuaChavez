@@ -29,7 +29,7 @@ Git · GitHub · Vercel · pytest · BeautifulSoup · requests
 
 ### proyecto-monitoreo-posta-medica
 
-Plataforma web full-stack para el monitoreo de indicadores de atencion medica en postas de salud. El sistema centraliza informacion operativa — registro de pacientes, tiempos de atencion y metricas clave — en un dashboard interactivo accesible desde el navegador.
+Plataforma web full-stack para el monitoreo de indicadores de atencion medica en postas de salud. El sistema centraliza informacion operativa (registro de pacientes, tiempos de atencion y metricas clave) en un dashboard interactivo accesible desde el navegador.
 
 El frontend esta construido en TypeScript con React y Vite. El backend expone una API REST en Python. Ambas capas estan desacopladas, lo que facilita el mantenimiento y la escalabilidad independiente de cada parte.
 
