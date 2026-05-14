@@ -35,7 +35,6 @@ El frontend esta construido en TypeScript con React y Vite. El backend expone un
 
 Tecnologias: TypeScript · React · Vite · Python · Vercel
 
-Repositorio: [github.com/YeshuaChavez/proyecto-monitoreo-posta-medica](https://github.com/YeshuaChavez/proyecto-monitoreo-posta-medica)
 ---
 
 ### article-prompter
@@ -47,8 +46,6 @@ Construida en TypeScript puro, con un nivel de tipado estricto que refleja buena
 El proyecto demuestra manejo de llamadas asincronicas, estados de carga, manejo de errores y construccion de interfaces orientadas a flujos de entrada y salida de texto.
 
 Tecnologias: TypeScript · React · CSS · Vite
-
-Repositorio: [github.com/YeshuaChavez/article-prompter](https://github.com/YeshuaChavez/article-prompter)
 
 ---
 
