@@ -77,7 +77,6 @@ Plataforma web full-stack para el monitoreo de indicadores de atencion medica en
 El frontend esta construido en TypeScript con React y Vite. El backend expone una API REST en Python. Ambas capas estan desacopladas, lo que facilita el mantenimiento y la escalabilidad independiente de cada parte.
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YeshuaChavez/proyecto-monitoreo-posta-medica)
-[![Demo](https://img.shields.io/badge/Demo_en_vivo-000000?style=flat-square&logo=vercel&logoColor=white)](https://proyecto-monitoreo-hospital.vercel.app)
 
 </td>
 <td width="50%" valign="top">
