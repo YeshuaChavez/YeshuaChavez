@@ -105,19 +105,19 @@ El proyecto demuestra manejo de llamadas asincronicas, estados de carga, manejo 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-Pipeline de datos de extremo a extremo para analisis predictivo de la Liga 1 Peru. Implementa la Arquitectura Medallion en tres capas diferenciadas:
+Pipeline de datos de extremo a extremo para analisis predictivo de la Premier League. Implementa la Arquitectura Medallion en tres capas diferenciadas:
 
-- **Bronze:** extraccion de datos desde FBRef via web scraping con requests y BeautifulSoup, con rate limiting, retry backoff y rotacion de User-Agent para respetar al servidor
-- **Silver:** limpieza, normalizacion de nombres de equipos, parsing de fechas en multiples formatos, validacion de rangos y deduplicacion
-- **Gold:** feature engineering con metricas agregadas por equipo, rolling averages de los ultimos 5 partidos, y calculo de fuerza de ataque y defensa relativa a la liga
+- **Bronze:** descarga de CSVs desde football-data.co.uk por temporada, preservando el dato original sin transformaciones
+- **Silver:** limpieza, estandarizacion de nombres de equipos, parsing de fechas y validacion de rangos
+- **Gold:** feature engineering con metricas agregadas por equipo, forma reciente y fuerza de ataque y defensa relativa a la liga
 
-El modelo predictivo aplica la distribucion de Poisson con correccion Dixon-Coles para resultados de pocos goles, produciendo probabilidades 1X2 y un ranking de los marcadores mas probables para cualquier enfrentamiento. Este es el mismo modelo estadistico utilizado como base por casas de apuestas europeas.
+El modelo predictivo aplica XGBoost con validacion cruzada estratificada sobre 22 features, produciendo probabilidades 1X2 para cualquier enfrentamiento. Entrenado con 1,900 partidos de 5 temporadas (2020-2025), alcanza 55.9% de accuracy — dentro del rango profesional para prediccion de futbol.
 
 Las tres capas se persisten en SQLite y el pipeline exporta CSVs listos para consumir en Power BI. Incluye una CLI con flags para ejecutar capas individuales o lanzar predicciones directamente desde la terminal.
 
