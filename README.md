@@ -114,6 +114,7 @@
 <br/>
 
 <div align="center">
+  <!-- SPOTIFY_START -->
   <table>
     <tr>
       <th>🎵 Top Tracks</th>
@@ -142,6 +143,7 @@
       </td>
     </tr>
   </table>
+  <!-- SPOTIFY_END -->
 </div>
 
 <br/>
