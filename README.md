@@ -44,7 +44,7 @@
         <img src="https://github-stats-alpha.vercel.app/api?username=YeshuaChavez&cc=0d1117&tc=ffffff&ic=58a6ff&bc=0d1117" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YeshuaChavez&theme=nord_dark" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YeshuaChavez&cc=0d1117&tc=ffffff&ic=58a6ff&bc=0d1117" alt="Top Languages" />
       </td>
     </tr>
     <tr>
