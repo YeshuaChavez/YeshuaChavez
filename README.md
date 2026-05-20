@@ -5,13 +5,12 @@
 
 <!-- Bio & About Me -->
 <div align="left">
-  <h3>👋 Hello there! I'm Yeshua Chavez</h3>
+  <h3>👋 Hello there!</h3>
   
   - 🎓 **Student** at UNMSM (Universidad Nacional Mayor de San Marcos)
   - 📚 **Currently Learning:** Data Science & Analytics, while also honing my web development skills (React & JavaScript)
-  - 🤖 **Developer Style:** Building web applications and data projects, learning by doing, and experimenting with AI assistants to push my boundaries
-  - ☁️ **Tech Interests:** Cloud Computing, Data Science, and AI technologies (specifically LLMs)
-  - 🎵 **Personal Interests:** Music, TV shows, and playing musical instruments
+  - 🤖 **Developer Style:** Building web applications and data projects
+  - ☁️ **Tech Interests:** Cloud Computing, Data Science, and AI technologies
 </div>
 
 <br/>
@@ -23,7 +22,6 @@
   - 🎸 Listening to music & playing musical instruments
   - 🍿 Watching TV shows & anime
   - 🎮 Playing video games
-  - 📖 Reading in general
   - 🤖 Exploring AI developments & LLMs
 </div>
 
