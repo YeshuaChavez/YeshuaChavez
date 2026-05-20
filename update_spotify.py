@@ -15,7 +15,6 @@ def get_access_token():
     response.raise_for_status()
     return response.json()["access_token"]
 
-
 def get_top_tracks(token, limit=5):
     response = requests.get(
         "https://api.spotify.com/v1/me/top/tracks",
@@ -29,7 +28,6 @@ def get_top_tracks(token, limit=5):
         for i, t in enumerate(items)
     ]
 
-
 def get_top_artists(token, limit=5):
     response = requests.get(
         "https://api.spotify.com/v1/me/top/artists",
@@ -39,7 +37,6 @@ def get_top_artists(token, limit=5):
     response.raise_for_status()
     items = response.json()["items"]
     return [f"{i+1}. {a['name']}" for i, a in enumerate(items)]
-
 
 def build_table(tracks, artists):
     tracks_html = "<br/>\n        ".join(tracks)
@@ -67,13 +64,13 @@ def build_table(tracks, artists):
   </table>
 <!-- SPOTIFY_END -->"""
 
-
 def update_readme(new_table):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    pattern = r"<!-- SPOTIFY_START -->.*?<!-- SPOTIFY_END -->"
-    updated = re.sub(pattern, new_table, content, flags=re.DOTALL)
+    # FIX 1: \s* para manejar espacios/indentación antes de los marcadores
+    pattern = r"\s*<!-- SPOTIFY_START -->.*?<!-- SPOTIFY_END -->"
+    updated = re.sub(pattern, "\n" + new_table, content, flags=re.DOTALL)
 
     if updated == content:
         print("⚠️  No se encontraron los marcadores en el README.")
@@ -83,7 +80,6 @@ def update_readme(new_table):
         f.write(updated)
     return True
 
-
 if __name__ == "__main__":
     print("🎵 Obteniendo datos de Spotify...")
     token = get_access_token()
@@ -91,12 +87,10 @@ if __name__ == "__main__":
     artists = get_top_artists(token)
 
     print("📊 Top Tracks:")
-    for t in tracks:
-        print(f"   {t}")
+    for t in tracks: print(f"   {t}")
 
     print("🎤 Top Artists:")
-    for a in artists:
-        print(f"   {a}")
+    for a in artists: print(f"   {a}")
 
     table = build_table(tracks, artists)
     success = update_readme(table)
