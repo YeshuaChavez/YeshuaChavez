@@ -16,7 +16,7 @@ Trabajo en la interseccion entre la ingenieria de datos, el backend escalable y 
 
 ## Perfil Profesional
 
-Me dedico a crear soluciones de software integrales, desde la captura y estructuracion de datos en pipelines de alta eficiencia (ETL/ELT), hasta el diseno y despliegue de interfaces interactivas para el usuario final. Disfruto resolver problemas complejos utilizando programacion estructurada, estadistica aplicada e integraciones con inteligencia artificial.
+Me dedico a crear soluciones de software integrales, desde la captura y estructuracion de datos en pipelines de alta eficiencia (ETL/ELT), hasta el diseño y despliegue de interfaces interactivas para el usuario final. Disfruto resolver problemas complejos utilizando programacion estructurada, estadistica aplicada e integraciones con inteligencia artificial.
 
 ---
 
@@ -60,8 +60,6 @@ Me dedico a crear soluciones de software integrales, desde la captura y estructu
 ---
 
 ## Contacto
-
-Si deseas conectar o colaborar en alguna iniciativa tecnologica:
 
 - **LinkedIn**: [linkedin.com/in/yeshua-chavez-101460388](https://www.linkedin.com/in/yeshua-chavez-101460388)
 - **Email**: [yeshuachavezlozano@gmail.com](mailto:yeshuachavezlozano@gmail.com)
