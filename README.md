@@ -117,6 +117,8 @@
 
 <br/>
 
+---
+
 <!-- Contact & Links -->
 <div align="center">
   <h3>Let's Connect! 📬</h3>
