@@ -44,7 +44,7 @@
         <img src="https://github-stats-alpha.vercel.app/api?username=YeshuaChavez&cc=0d1117&tc=ffffff&ic=58a6ff&bc=0d1117" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%" valign="top">
-        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=YeshuaChavez&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="GitHub Streak Card" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=YeshuaChavez&layout=compact&langs_count=5&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
     <tr>
