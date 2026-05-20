@@ -3,7 +3,6 @@ import re
 import requests
 
 def get_access_token():
-    """Obtiene un access token usando el refresh token."""
     response = requests.post(
         "https://accounts.spotify.com/api/token",
         data={
@@ -18,7 +17,6 @@ def get_access_token():
 
 
 def get_top_tracks(token, limit=5):
-    """Obtiene los top tracks del último mes."""
     response = requests.get(
         "https://api.spotify.com/v1/me/top/tracks",
         headers={"Authorization": f"Bearer {token}"},
@@ -27,13 +25,12 @@ def get_top_tracks(token, limit=5):
     response.raise_for_status()
     items = response.json()["items"]
     return [
-        f"{i+1}. {t['name']} — *{t['artists'][0]['name']}*"
+        f"{i+1}. {t['name']} — <i>{t['artists'][0]['name']}</i>"
         for i, t in enumerate(items)
     ]
 
 
 def get_top_artists(token, limit=5):
-    """Obtiene los top artists del último mes."""
     response = requests.get(
         "https://api.spotify.com/v1/me/top/artists",
         headers={"Authorization": f"Bearer {token}"},
@@ -45,18 +42,33 @@ def get_top_artists(token, limit=5):
 
 
 def build_table(tracks, artists):
-    """Construye la tabla markdown con los datos."""
-    tracks_col = "<br/>".join(tracks)
-    artists_col = "<br/>".join(artists)
+    tracks_html = "<br/>\n        ".join(tracks)
+    artists_html = "<br/>\n        ".join(artists)
     return f"""<!-- SPOTIFY_START -->
-| 🎵 Top Tracks | 🎤 Top Artists | 🕐 Recently Played |
-|---|---|---|
-| {tracks_col} | {artists_col} | [![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31rfklb2xjtwgcvtpz6hpvynfkfi&count=5&unique=true&width=300)](https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi) |
+  <table>
+    <tr>
+      <th>🎵 Top Tracks</th>
+      <th>🎤 Top Artists</th>
+      <th>🕐 Recently Played</th>
+    </tr>
+    <tr>
+      <td>
+        {tracks_html}
+      </td>
+      <td>
+        {artists_html}
+      </td>
+      <td>
+        <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rfklb2xjtwgcvtpz6hpvynfkfi&count=5&unique=true&width=300" alt="Recently Played" />
+        </a>
+      </td>
+    </tr>
+  </table>
 <!-- SPOTIFY_END -->"""
 
 
 def update_readme(new_table):
-    """Reemplaza la sección de Spotify en el README."""
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -64,8 +76,7 @@ def update_readme(new_table):
     updated = re.sub(pattern, new_table, content, flags=re.DOTALL)
 
     if updated == content:
-        print("⚠️  No se encontraron los marcadores <!-- SPOTIFY_START --> y <!-- SPOTIFY_END --> en el README.")
-        print("    Agrega esos comentarios en el README donde quieres la tabla.")
+        print("⚠️  No se encontraron los marcadores en el README.")
         return False
 
     with open("README.md", "w", encoding="utf-8") as f:
