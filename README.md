@@ -106,14 +106,12 @@
   <h2>🎧 My Music</h2>
 
   <!-- SPOTIFY_START -->
-  <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
-    <img src="https://andyruwruw-lime.vercel.app/now-playing" alt="Now Playing" width="600" />
+  <a href="https://andyruwruw-lime.vercel.app/now-playing?open" target="_blank">
+    <img src="https://raw.githubusercontent.com/YeshuaChavez/YeshuaChavez/main/example/now-playing.svg" alt="Now Playing" />
   </a>
   <br/>
-  <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
-    <img src="https://andyruwruw-lime.vercel.app/top-played" alt="Top Played" width="800" />
-  </a>
-  <!-- SPOTIFY_END -->
+  <img src="https://raw.githubusercontent.com/YeshuaChavez/YeshuaChavez/main/example/top-played.svg" alt="Top Played" />
+<!-- SPOTIFY_END -->
 
 </div>
 
