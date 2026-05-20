@@ -101,6 +101,19 @@
 
 ---
 
+<!-- Spotify Now Playing -->
+<div align="center">
+  <h3>🎵 Now Playing / Recently Played</h3>
+  <!-- REPLACE the image source URL below with your own personal Vercel deployment URL once set up -->
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID" target="_blank">
+    <img src="https://tthn.pythonanywhere.com?theme=dark&scan=true" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 <!-- Contact & Links -->
 <div align="center">
   <h3>Let's Connect! 📬</h3>
