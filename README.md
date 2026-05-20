@@ -114,7 +114,7 @@
 <br/>
 
 <div align="center">
-  <!-- SPOTIFY_START -->
+<!-- SPOTIFY_START -->
   <table>
     <tr>
       <th>🎵 Top Tracks</th>
@@ -124,10 +124,10 @@
     <tr>
       <td>
         1. Tu Cicatriz En Mi — <i>Gustavo Cerati</i><br/>
-        2. Prisoner — <i>The Weeknd, Lana Del Rey</i><br/>
-        3. Disco Eterno (MTV Unplugged) — <i>Soda Stereo</i><br/>
-        4. Entre Canibales (MTV Unplugged) — <i>Soda Stereo</i><br/>
-        5. SKRILLEX IS DEAD — <i>Skrillex, Dj Smokey</i>
+        2. Prisoner — <i>The Weeknd</i><br/>
+        3. Disco Eterno - MTV Unplugged — <i>Soda Stereo</i><br/>
+        4. Entre Canibales - MTV Unplugged — <i>Soda Stereo</i><br/>
+        5. SKRILLEX IS DEAD — <i>Skrillex</i>
       </td>
       <td>
         1. Skrillex<br/>
@@ -143,7 +143,7 @@
       </td>
     </tr>
   </table>
-  <!-- SPOTIFY_END -->
+<!-- SPOTIFY_END -->
 </div>
 
 <br/>
