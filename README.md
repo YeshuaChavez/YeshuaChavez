@@ -74,7 +74,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="48" height="48" />&nbsp;
   <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="48" alt="SciPy" /></a>&nbsp;
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="Power BI" /></a>
