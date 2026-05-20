@@ -13,6 +13,7 @@
   - ☁️ **Tech Interests:** Cloud Computing, Data Science, and AI technologies
 </div>
 
+<br/>
 
 <!-- Hobbies -->
 <div align="left">
