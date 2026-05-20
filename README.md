@@ -107,11 +107,11 @@
 
   <!-- SPOTIFY_START -->
   <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
-    <img src="https://andyruwruw-lime.vercel.app/now-playing" alt="Now Playing" />
+    <img src="https://andyruwruw-lime.vercel.app/now-playing" alt="Now Playing" width="600" />
   </a>
   <br/>
   <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
-    <img src="https://andyruwruw-lime.vercel.app/top-played" alt="Top Played" />
+    <img src="https://andyruwruw-lime.vercel.app/top-played" alt="Top Played" width="800" />
   </a>
   <!-- SPOTIFY_END -->
 
