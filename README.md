@@ -105,13 +105,6 @@
 <div align="center">
   <h2>🎧 My Music</h2>
 
-  <!-- Now Playing -->
-  <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfklb2xjtwgcvtpz6hpvynfkfi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=4364F7&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-
-  <br/><br/>
-
   <!-- SPOTIFY_START -->
   <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
     <img src="https://andyruwruw-lime.vercel.app/now-playing" alt="Now Playing" />
