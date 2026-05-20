@@ -6,7 +6,7 @@
   <h3>👋 Hello there!</h3>
   
   - 🎓 **Student** at UNMSM (Universidad Nacional Mayor de San Marcos)
-  - 📚 **Currently Learning:** Data Science & Analytics, while also honing my web development skills
+  - 📚 **Currently Learning:** Data Science & Analytics, while also honing my web development skills 
   - 🤖 **Developer Style:** Building web applications and data projects
   - ☁️ **Tech Interests:** Cloud Computing, Data Science, and AI technologies
 </div>
@@ -56,46 +56,13 @@
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
-<p align="left">
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,mysql,postgres,sqlite,fastapi,flask,pandas,sklearn,react,vite,tailwind,html,css,git,github,docker,vercel&perline=5" alt="My Skills" />
+  </a>
+</div>
 
-### ⚙️ Data Engineering & Backend
-<p align="left">
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" alt="Apache Spark" />
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png" alt="MATLAB" />
-</p>
-
-### 🎨 Frontend Development
-<p align="left">
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS3" />
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" />
-</p>
-
-### 🔧 Tools & DevOps
-<p align="left">
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" /> 
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" />
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" />
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="Jupyter" />
-  <img height="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" alt="Arduino" />
-</p>
+<br/>
 
 ---
 
