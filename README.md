@@ -53,7 +53,5 @@ Me dedico a crear soluciones de software integrales, desde la captura y estructu
 
 ## Contacto
 
-Si deseas conectar o colaborar en alguna iniciativa tecnologica:
-
 - **LinkedIn**: [linkedin.com/in/yeshua-chavez-101460388](https://www.linkedin.com/in/yeshua-chavez-101460388)
 - **Email**: [yeshuachavezlozano@gmail.com](mailto:yeshuachavezlozano@gmail.com)
