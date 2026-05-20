@@ -101,9 +101,11 @@
 
 ---
 
-<!-- Spotify Now Playing -->
+<!-- Spotify Music Dashboard -->
 <div align="center">
-  <h3>🎵 Now Playing on Spotify</h3>
+  <h2>🎧 My Music</h2>
+
+  <!-- Now Playing -->
   <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfklb2xjtwgcvtpz6hpvynfkfi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=4364F7&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
@@ -111,7 +113,38 @@
 
 <br/>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <th>🎵 Top Tracks</th>
+      <th>🎤 Top Artists</th>
+      <th>🕐 Recently Played</th>
+    </tr>
+    <tr>
+      <td>
+        1. Tu Cicatriz En Mi — <i>Gustavo Cerati</i><br/>
+        2. Prisoner — <i>The Weeknd, Lana Del Rey</i><br/>
+        3. Disco Eterno (MTV Unplugged) — <i>Soda Stereo</i><br/>
+        4. Entre Canibales (MTV Unplugged) — <i>Soda Stereo</i><br/>
+        5. SKRILLEX IS DEAD — <i>Skrillex, Dj Smokey</i>
+      </td>
+      <td>
+        1. Skrillex<br/>
+        2. The Weeknd<br/>
+        3. Soda Stereo<br/>
+        4. Gustavo Cerati<br/>
+        5. Michael Jackson
+      </td>
+      <td>
+        <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rfklb2xjtwgcvtpz6hpvynfkfi&count=5&unique=true&width=300" alt="Recently Played" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <!-- Contact & Links -->
 <div align="center">
