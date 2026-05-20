@@ -124,7 +124,7 @@ img:not([src]) {
 
 #progress {
   animation: progress 258453ms linear;
-  animation-delay: -43890ms;
+  animation-delay: -186407ms;
   background-color: #24292e;
   height: 6px;
   left: 0;
