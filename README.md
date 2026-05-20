@@ -6,7 +6,7 @@
   <h3>👋 Hello there!</h3>
   
   - 🎓 **Student** at UNMSM (Universidad Nacional Mayor de San Marcos)
-  - 📚 **Currently Learning:** Data Science & Analytics, while also honing my web development skills (React & JavaScript)
+  - 📚 **Currently Learning:** Data Science & Analytics, while also honing my web development skills
   - 🤖 **Developer Style:** Building web applications and data projects
   - ☁️ **Tech Interests:** Cloud Computing, Data Science, and AI technologies
 </div>
