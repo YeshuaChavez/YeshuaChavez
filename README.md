@@ -2,139 +2,58 @@
 
 # Yeshua Chavez
 
-Data Engineer y desarrollador Full Stack con enfoque en la construccion de pipelines de datos, APIs REST y aplicaciones web de impacto real. Trabajo principalmente con Python y TypeScript, aplicando principios de arquitectura limpia tanto en proyectos de ingenieria de datos como en desarrollo de software.
+### Data Engineer & Full Stack Developer
 
-Me interesa el cruce entre datos, estadistica aplicada e inteligencia artificial como herramientas para resolver problemas concretos.
+Trabajo en la interseccion entre la ingenieria de datos, el backend escalable y el desarrollo de interfaces web modernas. Priorizo la arquitectura limpia, el codigo tipado y las buenas practicas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshua-chavez-101460388)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YeshuaChavez)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshuachavezlozano@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshua-chavez-101460388)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YeshuaChavez)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yeshuachavezlozano@gmail.com)
 
 </div>
 
 ---
 
-## Tecnologias
+## Perfil Profesional
 
-**Lenguajes**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Ingenieria de Datos**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Arquitectura Medallion](https://img.shields.io/badge/Arquitectura_Medallion-2C2C2C?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-2C2C2C?style=flat-square)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-2C2C2C?style=flat-square)
-![Scipy](https://img.shields.io/badge/Scipy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Herramientas y entornos**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2C2C2C?style=flat-square)
-![requests](https://img.shields.io/badge/requests-2C2C2C?style=flat-square)
+Me dedico a crear soluciones de software integrales, desde la captura y estructuracion de datos en pipelines de alta eficiencia (ETL/ELT), hasta el diseno y despliegue de interfaces interactivas para el usuario final. Disfruto resolver problemas complejos utilizando programacion estructurada, estadistica aplicada e integraciones con inteligencia artificial.
 
 ---
 
-## Proyectos
+## Stack Tecnologico
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Lenguajes de Programacion
 
-### proyecto-monitoreo-posta-medica
+- **Python**: Analisis de datos, pipelines de ingenieria y microservicios.
+- **TypeScript / JavaScript**: Desarrollo de aplicaciones web interactivas y seguras.
+- **Java**: Arquitectura backend estructurada.
+- **SQL**: Modelado de datos y consultas optimizadas.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### Ingenieria de Datos & Backend
 
-Plataforma web full-stack para el monitoreo de indicadores de atencion medica en postas de salud. El sistema centraliza informacion operativa (registro de pacientes, tiempos de atencion y metricas clave) en un dashboard interactivo accesible desde el navegador.
+- **Procesamiento de Datos**: Pandas, Numpy, Scipy y Scikit-learn.
+- **Arquitectura de Datos**: Diseno de pipelines ETL/ELT y Arquitectura Medallion.
+- **APIs & Servicios**: FastAPI, Flask y APIs REST.
+- **Almacenamiento**: SQLite, PostgreSQL y MySQL.
+- **Automatizacion**: Web scraping y extraccion automatizada de fuentes externas.
 
-El frontend esta construido en TypeScript con React y Vite. El backend expone una API REST en Python. Ambas capas estan desacopladas, lo que facilita el mantenimiento y la escalabilidad independiente de cada parte.
+### Desarrollo Frontend
 
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YeshuaChavez/proyecto-monitoreo-posta-medica)
+- **Frameworks & Librerias**: React y TanStack Start.
+- **Enrutamiento**: TanStack Router para navegacion tipada.
+- **Estilos & UI**: Tailwind CSS, CSS Vanilla y diseno responsivo adaptado a dispositivos moviles.
 
-</td>
-<td width="50%" valign="top">
+### Herramientas y Metodologias
 
-### article-prompter
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-Aplicacion frontend para la generacion de articulos asistida por inteligencia artificial. Permite al usuario ingresar parametros y obtener contenido generado mediante integracion con modelos de lenguaje.
-
-Construida en TypeScript puro, con un nivel de tipado estricto que refleja buenas practicas de desarrollo en proyectos de produccion. La estructura del proyecto separa la logica de integracion con la API del componente visual, facilitando el mantenimiento y la extension de funcionalidades.
-
-El proyecto demuestra manejo de llamadas asincronicas, estados de carga, manejo de errores y construccion de interfaces orientadas a flujos de entrada y salida de texto.
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YeshuaChavez/article-prompter)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### pipeline-datos-deportivos
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-Pipeline de datos de extremo a extremo para analisis predictivo de la Premier League. Implementa la Arquitectura Medallion en tres capas diferenciadas:
-
-- **Bronze:** descarga de CSVs desde football-data.co.uk por temporada, preservando el dato original sin transformaciones
-- **Silver:** limpieza, estandarizacion de nombres de equipos, parsing de fechas y validacion de rangos
-- **Gold:** feature engineering con metricas agregadas por equipo, forma reciente y fuerza de ataque y defensa relativa a la liga
-
-El modelo predictivo aplica XGBoost con validacion cruzada estratificada sobre 22 features, produciendo probabilidades 1X2 para cualquier enfrentamiento. Entrenado con 1,900 partidos de 5 temporadas (2020-2025), alcanza 55.9% de accuracy — dentro del rango profesional para prediccion de futbol.
-
-Las tres capas se persisten en SQLite y el pipeline exporta CSVs listos para consumir en Power BI. Incluye una CLI con flags para ejecutar capas individuales o lanzar predicciones directamente desde la terminal.
-
-[![Repositorio](https://img.shields.io/badge/Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YeshuaChavez/pipeline-datos-deportivos)
-
-</td>
-</tr>
-</table>
+- **Control de Versiones**: Git y GitHub.
+- **Calidad de Codigo**: Pytest, ESLint y Prettier.
+- **Despliegue**: Vercel y Cloudflare.
 
 ---
 
 ## Contacto
 
-<div align="center">
+Si deseas conectar o colaborar en alguna iniciativa tecnologica:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/yeshua--chavez--101460388-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeshua-chavez-101460388)
-[![GitHub](https://img.shields.io/badge/github.com/YeshuaChavez-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YeshuaChavez)
-[![Email](https://img.shields.io/badge/yeshuachavezlozano@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yeshuachavezlozano@gmail.com)
-
-</div>
+- **LinkedIn**: [linkedin.com/in/yeshua-chavez-101460388](https://www.linkedin.com/in/yeshua-chavez-101460388)
+- **Email**: [yeshuachavezlozano@gmail.com](mailto:yeshuachavezlozano@gmail.com)
