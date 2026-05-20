@@ -8,11 +8,10 @@
   <h3>👋 Hello there! I'm Yeshua Chavez</h3>
   
   - 🎓 **Student** at UNMSM (Universidad Nacional Mayor de San Marcos)
-  - 🥀 **Learning:** Swift & Objective-C (along with JavaScript, TypeScript, React, and 69 others)
-  - 🔭 **SpaceX FanBoi:** Die for space 😼
-  - 🛸 **Interests:** Into High Energy Physics and Astrophysics (and I love shooting stars too!)
-  - 💻 **Developer Style:** I do fullstack and a bit of everything ❤️
-  - ✨ **Motto:** All about living life at its best.
+  - 📚 **Currently Learning:** Data Science & Analytics, while also honing my web development skills (React & JavaScript)
+  - 🤖 **Developer Style:** Building web applications and data projects, learning by doing, and experimenting with AI assistants to push my boundaries
+  - ☁️ **Tech Interests:** Cloud Computing, Data Science, and AI technologies (specifically LLMs)
+  - 🎵 **Personal Interests:** Music, TV shows, and playing musical instruments
 </div>
 
 <br/>
@@ -21,10 +20,11 @@
 <div align="left">
   <h3>📅 Hobbies</h3>
   
-  - 🏆 Solving programming problems at **Codeforces**, **UVa**, and **LeetCode**
-  - 🍿 Watching anime and TV shows
-  - 📖 Reading manga
+  - 🎸 Listening to music & playing musical instruments
+  - 🍿 Watching TV shows & anime
   - 🎮 Playing video games
+  - 📖 Reading in general
+  - 🤖 Exploring AI developments & LLMs
 </div>
 
 <br/>
