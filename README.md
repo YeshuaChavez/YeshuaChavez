@@ -102,15 +102,35 @@
 <!-- Spotify Music Dashboard -->
 <div align="center">
   <h2>🎧 My Music</h2>
-
-  <!-- SPOTIFY_START -->
-  <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
-    <img src="https://andyruwruw-lime.vercel.app/now-playing" alt="Now Playing" />
-  </a>
-  <br/>
-  <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi" target="_blank">
-    <img src="https://andyruwruw-lime.vercel.app/top-played" alt="Top Played" />
-  </a>
+<!-- SPOTIFY_START -->
+  <table>
+    <tr>
+      <th>🎵 Top Tracks</th>
+      <th>🎤 Top Artists</th>
+      <th>🕐 Recently Played</th>
+    </tr>
+    <tr>
+      <td>
+        1. Tu Cicatriz En Mi — <i>Gustavo Cerati</i><br/>
+        2. Prisoner — <i>The Weeknd</i><br/>
+        3. Entre Canibales - MTV Unplugged — <i>Soda Stereo</i><br/>
+        4. fuze — <i>Skrillex</i><br/>
+        5. Disco Eterno - MTV Unplugged — <i>Soda Stereo</i>
+      </td>
+      <td>
+        1. Skrillex<br/>
+        2. The Weeknd<br/>
+        3. Soda Stereo<br/>
+        4. Gustavo Cerati<br/>
+        5. Michael Jackson
+      </td>
+      <td>
+        <a href="https://open.spotify.com/user/31rfklb2xjtwgcvtpz6hpvynfkfi">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rfklb2xjtwgcvtpz6hpvynfkfi&count=5&unique=true&width=300" alt="Recently Played" />
+        </a>
+      </td>
+    </tr>
+  </table>
 <!-- SPOTIFY_END -->
 
 </div>
