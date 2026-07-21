@@ -13,7 +13,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: YeshuaChavez
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push
         run: |
