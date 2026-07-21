@@ -14,7 +14,7 @@ jobs:
         with:
           username: YeshuaChavez
           file: trophy.svg
-          theme: nord
+          theme: dark
           no-background: true
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and push
