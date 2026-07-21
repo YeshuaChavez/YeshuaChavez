@@ -70,15 +70,6 @@
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" />
 </p>
 
-### 🤖 Data Science & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />&nbsp;
-  <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-AA4400?style=for-the-badge&logoColor=white" height="48" alt="XGBoost" /></a>&nbsp;
-  <a href="https://shap.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/SHAP-CC0033?style=for-the-badge&logoColor=white" height="48" alt="SHAP" /></a>&nbsp;
-  <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="48" alt="SciPy" /></a>&nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="Power BI" /></a>
-</p>
 
 ### ⚙️ Backend & APIs
 <p align="left">
@@ -87,8 +78,6 @@
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="48" height="48" />&nbsp;
-  <a href="https://mqtt.org/" target="_blank"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="48" alt="MQTT" /></a>
 </p>
 
 ### 🎨 Frontend Development
