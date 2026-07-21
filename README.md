@@ -31,7 +31,7 @@
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=YeshuaChavez&theme=nord&column=7&no-background=true" alt="Yeshua's Trophies" />
+  <img src="./trophy.svg" alt="Yeshua's Trophies" />
 </div>
 
 <br/>
