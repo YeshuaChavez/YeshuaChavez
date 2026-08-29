@@ -59,43 +59,76 @@
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
-<p align="left">
+<!-- Programming Languages -->
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+</p>
+
+<!-- Frontend -->
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />
+</p>
+
+<!-- Backend & APIs -->
+<h3 align="center">⚙️ Backend & APIs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />
+</p>
+
+<!-- Databases -->
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" />
 </p>
 
-
-### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />&nbsp;
+<!-- Data Science & AI -->
+<h3 align="center">🧠 Data Science & AI</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
 </p>
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48" />
-</p>
-
-### 🔧 Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />&nbsp;
+<!-- Cloud & DevOps -->
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+</p>
+
+<!-- Mobile -->
+<h3 align="center">📱 Mobile</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="48" height="48" />
+</p>
+
+<!-- IDEs & Editors -->
+<h3 align="center">🧩 IDEs & Editors</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="48" height="48" />
 </p>
 
 ---
