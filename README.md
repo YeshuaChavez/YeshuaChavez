@@ -7,8 +7,6 @@
 <div align="left">
   <h3>👋 Hello there!</h3>
 
-  Student at UNMSM building applied data engineering, machine learning, and full-stack web solutions.
-
   - 🎓 **Student** at UNMSM (Universidad Nacional Mayor de San Marcos)
   - 📚 **Currently Learning:** Data Science & Analytics, while also honing my web development skills
   - 🤖 **Developer Style:** Building web applications and data projects
