@@ -62,10 +62,12 @@
 <!-- Programming Languages -->
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
 </p>
 
 <!-- Frontend -->
@@ -101,13 +103,16 @@
 <h3 align="center">🧠 Data Science & AI</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="sklearn" width="48" height="48" />
 </p>
 
 <!-- Cloud & DevOps -->
 <h3 align="center">☁️ Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />&nbsp;
