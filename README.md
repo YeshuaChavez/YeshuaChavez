@@ -93,6 +93,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="48" height="48" />
 </p>
 
