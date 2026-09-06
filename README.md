@@ -134,7 +134,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="48" height="48" />&nbsp;
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="48" height="48" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="48" height="48" />
 </p>
 
 ---
